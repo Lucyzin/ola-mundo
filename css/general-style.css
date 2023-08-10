@@ -10,9 +10,20 @@ body{
 }
 
 main{
-    width: 500px;
-    margin: 0 auto;
+    
+    border-radius: 20px;
+    background-color: white;
+    width: 600px;
+    margin: 70px auto;
     color: black;
-    padding: 10px;
-    box-shadow: 3px 3px 5px black;
+    padding: 30px;
+    box-shadow: 20px 20px 30px black;
+}
+
+h1{
+    padding-bottom: 20px;
+    text-align: center;
+}
+article{
+    padding-bottom: 20px;
 }
